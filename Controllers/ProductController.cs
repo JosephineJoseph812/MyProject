@@ -45,15 +45,15 @@ namespace MyProject.Controllers
     
     
 
- [HttpGet("Creat")]
+ [HttpGet("Create")]
  public IActionResult Creat()
  {
     return View();
  }
- [HttpPost("Creat")]
+ [HttpPost("Create")]
  [ValidateAntiForgeryToken]
 
- public IActionResult Creat(Product Product)
+ public IActionResult Create(Product Product)
  {
     _context.products.Add(Product);
     _context.SaveChanges();
@@ -105,7 +105,7 @@ namespace MyProject.Controllers
     
  }
      [HttpPost("Delete")]
-     public IActionResult Deletconfirmed(int id)
+     public IActionResult Deleteconfirmed(int id)
 {
     var Product=_context.products.FirstOrDefault(Product => Product.ProductId == id);    
               _context.products.Remove(Product);
