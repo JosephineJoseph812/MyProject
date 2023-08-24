@@ -24110,6 +24110,61 @@
       "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Category\\Edit.cshtml",
       "TargetPath": "Views\\Category\\Edit.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Product\\Create.cshtml",
+      "TargetPath": "Views\\Product\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Product\\Details.cshtml",
+      "TargetPath": "Views\\Product\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Product\\Edite.cshtml",
+      "TargetPath": "Views\\Product\\Edite.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Order\\Index.cshtml",
+      "TargetPath": "Views\\Order\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Order\\Create.cshtml",
+      "TargetPath": "Views\\Order\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Order\\Details.cshtml",
+      "TargetPath": "Views\\Order\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\UserAccount\\Create.cshtml",
+      "TargetPath": "Views\\UserAccount\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\UserAccount\\Details.cshtml",
+      "TargetPath": "Views\\UserAccount\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\UserAccount\\Index.cshtml",
+      "TargetPath": "Views\\UserAccount\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Contact\\Details.cshtml",
+      "TargetPath": "Views\\Contact\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dell\\Downloads\\MyProject\\Views\\Contact\\Create.cshtml",
+      "TargetPath": "Views\\Contact\\Create.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
